@@ -40,3 +40,4 @@ function calculateAge(dob) {
 }
 changeUserButton.addEventListener("click", fetchRandomUser);
 fetchRandomUser();
+
